@@ -6,7 +6,7 @@ function Home() {
     <>
       <section className="hero" data-aos="fade-up">
         <div className="hero-copy" data-aos="fade-right" data-aos-delay="100">
-          <h1>Experience<br/>EngineeringExcellence</h1>
+          <h1>Experience<br/>Engineering Excellence</h1>
           <p>Looking for a experienced professional to tackle a project? Look no further than Prime Aspect. We are a leading structural consulting firm headquartered in India, dedicated to providing innovative and reliable structural designs and solutions. Our team of experienced engineers utilizes cutting-edge technology and industry best practices to deliver comprehensive structural design services tailored to meet the unique needs of each project. Get in touch for a free quote today.</p>
           <div className="button-row">
             <Link to="/services" className="button primary">Learn More</Link>
